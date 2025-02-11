@@ -1,5 +1,5 @@
 # Atari-Skiing-Using-Rainbow-DQN
-Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.com/Ruiqi2002), [Ong Ming Jie](https://github.com/ethanong98), [Tan Hong Guan](https://github.com/tanhg1116)
+Author: [Ng Zheng Jue](https://github.com/xinjue37), [Tan Hong Guan](https://github.com/tanhg1116), [Ng Rui Qi](https://github.com/Ruiqi2002), [Ong Ming Jie](https://github.com/ethanong98).
 
 * This is a project developed in undergraduate Year 3 - Semester 2 in the course (**Deep Reinforcement Learning and Control**).
 * This repository consists of **solving a control movement problem using Deep Reinforcement Learning**. The deep learning architecture used is Rainbow DQN (Deep Q network) as we are dealing with the deterministic action
